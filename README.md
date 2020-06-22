@@ -3,7 +3,8 @@
 <p align="center">
   <img src='riceye.png' width = 350>
 </p>
-Rice disease detection using machine learning. The dataset is from (this Kaggle repo)[https://www.kaggle.com/minhhuy2810/rice-diseases-image-dataset]. We also do improvement to the dataset (moving the wrongly labelled data), you can access it (here)[https://drive.google.com/drive/folders/1lbgXCNdc5BICy-MOzRNdfI670TC-BrnL?usp=sharing].
+
+Rice disease detection using machine learning. The dataset is from [this Kaggle repo](https://www.kaggle.com/minhhuy2810/rice-diseases-image-dataset). We also do improvement to the dataset (moving the wrongly labelled data), you can access it [here](https://drive.google.com/drive/folders/1lbgXCNdc5BICy-MOzRNdfI670TC-BrnL?usp=sharing).
 
 This model already deployed on:
   - Mobile android app: https://play.google.com/store/apps/details?id=dev.mtsstudio.riceye
