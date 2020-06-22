@@ -5,6 +5,7 @@
 </p>
 
 [LINK] Riceye Mobile Application: https://github.com/hansels/flutter_riceye
+[LINK] Riceye Website Application: https://github.com/rikeadelia/riceye-webapp
 
 ## Disease Images:
 <span>
